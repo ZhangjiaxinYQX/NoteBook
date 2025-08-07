@@ -7,6 +7,10 @@
 ## Drools
 https://docs.drools.org/8.44.0.Final/drools-docs/drools/rule-engine/index.html
 
+LiteFlow vs Drools对比
+
+https://cloud.tencent.com/developer/article/2277247
+
 23432
 ## EasyRules
 ## QLExpress（阿里）
